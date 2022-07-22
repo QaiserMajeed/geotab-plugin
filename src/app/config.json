@@ -1,0 +1,22 @@
+{
+  "name": "testHafiz",
+  "supportEmail": "qaisermajeed87@gmail.com",
+  "version": "0.0.1",
+  "items": [
+    {
+      "url": "testHafiz.html",
+      "path": "",
+      "menuName": {
+        "en": "testHafiz"
+      },
+      "icon": "images/icon.svg"
+    }
+  ],
+
+  "dev": {
+    "root": "testHafiz",
+    "dist": {
+      "host": "locahost/"
+    }
+  }
+}
