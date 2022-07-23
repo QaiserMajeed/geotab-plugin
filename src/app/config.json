@@ -16,7 +16,7 @@
   "dev": {
     "root": "testHafiz",
     "dist": {
-      "host": "locahost/"
+      "host": ""
     }
   }
 }

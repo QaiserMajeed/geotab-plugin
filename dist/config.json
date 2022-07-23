@@ -4,12 +4,12 @@
   "version": "0.0.1",
   "items": [
     {
-      "url": "locahost/testHafiz.html",
+      "url": "testHafiz.html",
       "path": "",
       "menuName": {
         "en": "testHafiz"
       },
-      "icon": "locahost/images/icon.svg"
+      "icon": "images/icon.svg"
     }
   ]
 }
